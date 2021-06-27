@@ -20,7 +20,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='django-dropbox-storage',
+    name='django-dropbox-storage-fixed',
     version=version,
     description='A Dropbox Storage for your Django apps',
     long_description=long_description,
@@ -31,6 +31,6 @@ setup(
     download_url=project_url + '/archive/' + version + '.tar.gz',
     packages=packages,
     install_requires=requires,
-    keywords = 'django storage dropbox',
+    keywords = 'django storage dropbox fixed',
     license='MIT',
 )
