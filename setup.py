@@ -11,7 +11,7 @@ requires = [
     'dropbox>=8.0.0',
 ]
 
-project_url = 'https://github.com/zuck/django-dropbox-storage'
+project_url = 'https://github.com/Liqudity2provider/django-dropbox-storage'
 
 here = path.abspath(path.dirname(__file__))
 
