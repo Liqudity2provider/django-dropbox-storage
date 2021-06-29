@@ -1,17 +1,17 @@
-# django-dropbox-storage
+# django-dropbox-storage-fixed
 
 > A Dropbox Storage for your Django apps
 
 ## What
 
-`django-dropbox-storage` allows Django apps to use Dropbox as a storage backend for file uploading.
+`django-dropbox-storage-fixed` allows Django apps to use Dropbox as a storage backend for file uploading.
 
 ## Installing
 
 First things first:
 
 ```
-$ pip install django-dropbox-storage
+$ pip install django-dropbox-storage-fixed
 ```
 
 Then open the `settings.py` of your project and include it to your `INSTALLED_APPS`:
